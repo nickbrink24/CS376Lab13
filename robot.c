@@ -6,6 +6,7 @@
  *
  * @author Tanya L. Crenshaw, Nathan Schmedake, Daman Oberoi, Martin Cenek
  * @since August 2013
+ * Bryan Soriano
  *
  */
 
@@ -37,7 +38,7 @@ void robotPrintAscii(void)
 	printBlanks(10, round);
   	printf("     i_i    \n");
 	printBlanks(10, round);
-	printf("    [x_x]   \n");
+	printf("    [O_0]   \n");
 	printBlanks(10, round);
 	printf("   /|___|\\ \n");
 	printBlanks(10, round);
