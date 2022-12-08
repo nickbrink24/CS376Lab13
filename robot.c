@@ -74,7 +74,7 @@ void dalekPrintAscii(void)
   char* blank = "                              ";
   blank = blank +30;
   printf("\n\n"
-	 "I am Dalek, from Dr. Who. Edited by Milton\n"
+	 "I am Dalek, from Dr. Who. Edited by Miltoooon\n"
 	 "%s      <----->      \n" 
          "%s     < X1(0)1X  >     \n"        
          "%s     |       |     \n"
