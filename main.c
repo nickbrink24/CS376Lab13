@@ -28,6 +28,7 @@ int main(int argc, const char * argv[])
   if(argc > 1 && isdigit(*argv[1])) {  
     	dalekPrintAscii();
   	robotPrintMessage();
+	robotPrintAscii();
   }
   
   return 0;
